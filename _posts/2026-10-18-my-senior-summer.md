@@ -1,6 +1,8 @@
 
 ![picture of John](/images/john.jpg "John Christopher")
 
+# My Senior Summer
+
 ### Hello and welcome to my blog. In this blog I will be writing about my last summer in highschool and reflecting on how it helped me transition from being a junior to a senior
 
 ![Vacation Photo](/images/waterfall.jpg "Jamaica")
